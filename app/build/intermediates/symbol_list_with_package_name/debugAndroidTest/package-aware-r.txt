@@ -1,0 +1,3 @@
+com.idv.calculator.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
